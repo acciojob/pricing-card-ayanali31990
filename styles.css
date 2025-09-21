@@ -6,3 +6,12 @@ width:300px;
 	background-color:lightgray;
 	margin:10px auto
 }
+img{
+width:100px;
+	height:100px;
+}
+button{
+background-color:red;
+	color:white;
+	padding:10px auto;
+}
